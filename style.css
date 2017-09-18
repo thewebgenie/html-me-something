@@ -1,0 +1,9 @@
+.cool {
+	
+}
+p:nth-of-type(even) {
+	margin-left: 25%;
+}
+p:nth-of-type(odd) {
+	margin-left: 5%;
+}
